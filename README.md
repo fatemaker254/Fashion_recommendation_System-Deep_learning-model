@@ -1,4 +1,4 @@
-# Diabetes Prediction 
+# Fashion Recommender System
 
 ## step1
 Create an environment
