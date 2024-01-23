@@ -29,8 +29,8 @@ def extract_features(img_path, model):
 
 filenames = []
 
-for file in os.listdir("images2"):
-    filenames.append(os.path.join("images2", file))
+for file in os.listdir("images"):
+    filenames.append(os.path.join("images", file))
 
 feature_list = []
 
