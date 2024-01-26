@@ -1,3 +1,5 @@
+
+
 # Fashion Recommender System
 
 ## step1
@@ -34,3 +36,6 @@ https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-mode
 
 https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-model/assets/81921058/ababdd91-ce3f-417f-b7ce-3963c7e491a6
 
+
+## Adding the Place Order Functionality 
+https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-model/assets/81921058/9e138dca-736c-4718-b213-4926bba0c95d
