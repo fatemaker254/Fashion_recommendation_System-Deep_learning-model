@@ -99,3 +99,15 @@ if st.sidebar.button("Open Cart"):
         st.sidebar.image(item[0], caption=item[1], width=150)
         total_price += 10  # Assuming each item costs $10
     st.sidebar.info(f"Total Price: ${total_price}")
+
+place_order_clicked = st.sidebar.button("Place Order")
+if place_order_clicked:
+    if st.session_state.cart_items == []:
+        st.sidebar.info("Your Cart is Empty")
+    else:
+        st.session_state.cart_items = []
+        st.sidebar.info("Placed Order Successfully!\n\tThank You for Shopping with Us")
+
+
+# Adjust layout
+st.sidebar.write("")  # Add space
