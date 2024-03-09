@@ -40,5 +40,10 @@ https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-mode
 ## Adding the Place Order Functionality 
 https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-model/assets/81921058/9e138dca-736c-4718-b213-4926bba0c95d
 
+## Adding Login-SignUp Feature
+
+https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-model/assets/81921058/477a69c6-19ad-451e-a27f-6ffad8776f4f
+
+
 ## Documentation
 [Image Feature Extraction with ResNet50.docx](https://github.com/fatemaker254/Fashion_recommendation_System-Deep_learning-model/files/14075449/Image.Feature.Extraction.with.ResNet50.docx)
